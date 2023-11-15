@@ -1,0 +1,15 @@
+Potentially relevant Data Options (from ESIIL page): https://cu-esiil.github.io/hackathon2023_datacube/
+
+Flood event inventory
+Flood event area (polygons)
+River geography
+River and Basin features
+NEON Lakes
+NEON Rivers
+EPA water quality
+USGS Water Services
+Global Species Occurrence
+NEON LIDAR
+NEON biogeochemistry
+Open Street MapUS Census
+Remote sensing
