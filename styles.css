@@ -1,0 +1,46 @@
+/* Add some basic styling */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #0077CC;
+    color: white;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+}
+
+section {
+    padding: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: #005599;
+    color: white;
+    padding: 1em 0;
+}
+
+footer p {
+    margin: 0;
+}
